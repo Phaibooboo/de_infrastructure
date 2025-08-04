@@ -1,0 +1,9 @@
+
+pandas==2.2.3
+awswrangler==3.11.0
+boto3==1.38.8
+python-dotenv==1.1.0
+requests==2.32.3
+apache-airflow-providers-amazon==9.6.1
+apache-airflow-providers-openlineage==2.2.0
+faker==20.1.0
